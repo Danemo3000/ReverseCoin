@@ -1,0 +1,17 @@
+new.button(generate)
+
+new.button(withdraw)
+
+new.object(RVC)
+// RVC = ReverseCoin
+
+if.click(button.generate)
+gererateSPEED = 1 RVC(1 second)
+
+if.balance = 1 RVC
+display.text("You have 1 RVC")
+
+if.click(button.withdraw)
+mailto:danemo4000@gmail.com
+text = ("I would like to withdraw my balance! (display.username)")
+
